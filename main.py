@@ -12,7 +12,7 @@ cnt = 0
 
 for i in feed['entries']:
     if cnt > 5: break
-	cnt+=1
+	cnt += 1
     dt = datetime.datetime.strptime(i['published'], '%a, %d %b %Y %H:%M:%S %Z')
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
