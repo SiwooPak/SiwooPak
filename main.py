@@ -16,7 +16,7 @@ for i in feed['entries']:
         markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
         print(i['link'], i['title'])
     else :
-		break;
+		break
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
