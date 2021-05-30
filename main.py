@@ -3,10 +3,9 @@ import feedparser, datetime
 velog_uri="https://v2.velog.io/rss/dev_shu"
 feed = feedparser.parse(velog_uri)
 
-markdown_text = """# Hello, there!
-Your introduction goes here
+markdown_text = """# 시우의 블로그 업뎃상황!
+
 ## Recent blog posts
-""" # list of blog posts will be appended here
 
 lst = []
 
