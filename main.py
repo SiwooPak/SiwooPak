@@ -10,12 +10,10 @@ markdown_text = ""# 시우의 블로그 업뎃상황!
 lst = []
 cnt = 0
 
-for i in feed['entries']:
-    if cnt > 5: break
-	cnt += 1
-    dt = datetime.datetime.strptime(i['published'], '%a, %d %b %Y %H:%M:%S %Z')
-    markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
-    print(i['link'], i['title'])
+for i in range(1,6):
+    dt = datetime.datetime.strptime(feed['entries'][i]['published'], '%a, %d %b %Y %H:%M:%S %Z')
+    markdown_text += f"[{feed['entries'][i]['title']}]({feed['entries'][i]['link']}) - {dt}<br>\n"
+    print(feed['entries'][i]['link'], feed['entries'][i]['title'])
 	
 
 
