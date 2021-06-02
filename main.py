@@ -3,7 +3,8 @@ import feedparser, datetime
 velog_uri="https://v2.velog.io/rss/dev_shu"
 feed = feedparser.parse(velog_uri)
 
-markdown_text = "# 시우의 블로그 최근 업로드된 5개!<br>\n"
+markdown_text = """# 시우의 블로그 최근 업로드된 5개!<br>\n
+update time: am 10, pm 10\n"""
 
 ## Recent blog posts
 

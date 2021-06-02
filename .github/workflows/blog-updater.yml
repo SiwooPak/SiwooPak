@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ gh-pages ]
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: "10, 22 * * *"
 
 jobs:
   build:
