@@ -1,7 +1,7 @@
 # 시우의 블로그 최근 업로드된 5개!<br>
 
-update time: am 10, pm 10<br>[완전탐색](https://velog.io/@dev_shu/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89) - 2021-07-15 23:11:53<br>
-[What's up?](https://velog.io/@dev_shu/Whats-up) - 2021-07-15 22:56:25<br>
-[useInput](https://velog.io/@dev_shu/useInput-7fqimm7c) - 2021-07-15 04:58:06<br>
-[How is it going?](https://velog.io/@dev_shu/How-is-it-going) - 2021-07-14 22:37:12<br>
-[Generator](https://velog.io/@dev_shu/Generator) - 2021-07-14 22:21:29<br>
+update time: am 10, pm 10<br>[반복문(do-while)](https://velog.io/@dev_shu/%EB%B0%98%EB%B3%B5%EB%AC%B8do-while) - 2021-07-18 23:12:27<br>
+[반복문(while)](https://velog.io/@dev_shu/%EB%B0%98%EB%B3%B5%EB%AC%B8while) - 2021-07-18 23:05:59<br>
+[조건문(switch-case문)](https://velog.io/@dev_shu/%EC%A1%B0%EA%B1%B4%EB%AC%B8switch-case%EB%AC%B8) - 2021-07-18 22:47:51<br>
+[조건문 if문(2)](https://velog.io/@dev_shu/%EC%A1%B0%EA%B1%B4%EB%AC%B8-if%EB%AC%B82) - 2021-07-18 22:03:38<br>
+[조건문 if문(1)](https://velog.io/@dev_shu/%EC%A1%B0%EA%B1%B4%EB%AC%B8if%EB%AC%B8) - 2021-07-18 21:49:28<br>
